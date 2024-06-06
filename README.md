@@ -1,1 +1,2 @@
-# Somativa-web-novo
+# Somativa-web
+Foi criado o diagrama do projeto SIMOPI, ilustrando o fluxo de trabalho desde a coleta de dados por meio de sensores industriais e mecanismos de automação, aquisição de dados por meio de um sistema baseado em Python, processos ETL para integridade de dados, aprendizado de máquina para análise e otimização de dados, arquitetura de banco de dados para armazenamento, à interface web para visualização de dados com gráficos e painéis interativos, todos integrados em uma estrutura de gerenciamento de projetos Scrum.
